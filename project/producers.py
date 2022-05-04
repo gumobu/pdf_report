@@ -1,14 +1,14 @@
 aircraft_producers = (
-    'boeing',
-    'airbus',
-    'sukhoi',
-    'cessna',
-    'bombardier',
-    'saab',
-    'embraer',
-    'tupolev',
-    'antonov',
-    'atr',
-    'irkut',
-    'ilyushin'
+    'Boeing',
+    'Airbus',
+    'Sukhoi',
+    'Cessna',
+    'Bombardier',
+    'Saab',
+    'Embraer',
+    'Tupolev',
+    'Antonov',
+    'Atr',
+    'Irkut',
+    'Ilyushin'
 )
